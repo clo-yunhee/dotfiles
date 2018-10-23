@@ -1,0 +1,3 @@
+colors dracula
+set term=xterm-kitty
+set mouse=a
